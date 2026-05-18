@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentOS - Privacy Copilot</string>
+    <string name="accessibility_service_description">IntentOS uses Accessibility services to understand your screen context and seamlessly assist with your smartphone workflows. No data leaves your device.</string>
+</resources>
